@@ -12,19 +12,20 @@ I am a Data Science student passionate about solving real-world problems using A
 
 
 
-# 📂 Project Portfolio
+# 📂 Project PortfoliO
+
 
 
 ## 🤖 Machine Learning Projects
-1.Drug Recommendation System : [[ Link ](https://github.com/Sudipta-Mitra/Drug-recommender)]
-2.Iris Flower Species Prediction Web App [[ Link ]( https://github.com/Sudipta-Mitra/Iris-dataset)]
-3.Mushroom Classification [[ Link ](https://github.com/Sudipta-Mitra/MUSHROOM-CLASSIFICATION )]
-4.Sentiment analysis [[ Link ]( https://github.com/Sudipta-Mitra/iris)]
-5.Car evaluation [[ Link ]( https://github.com/Sudipta-Mitra/car_evaluation)]
+1. Drug Recommendation System : [[ Link ](https://github.com/Sudipta-Mitra/Drug-recommender)]
+2. Iris Flower Species Prediction Web App [[ Link ]( https://github.com/Sudipta-Mitra/Iris-dataset)]
+3. Mushroom Classification [[ Link ](https://github.com/Sudipta-Mitra/MUSHROOM-CLASSIFICATION )]
+4. Sentiment analysis [[ Link ]( https://github.com/Sudipta-Mitra/iris)]
+5. Car evaluation [[ Link ]( https://github.com/Sudipta-Mitra/car_evaluation)]
 6. movie-recommendation-system- [[ Link ](https://github.com/Sudipta-Mitra/movie-recommendation-system- )]
-7.Income Prediction Web Application [[ Link ](https://github.com/Sudipta-Mitra/Income-Prediction )]
-8.loan_status [[ Link ](https://github.com/Sudipta-Mitra/loan_status )]
-9.Fake-news-prediction [[ Link ]( https://github.com/Sudipta-Mitra/Fake-news-prediction-)]
+7. Income Prediction Web Application [[ Link ](https://github.com/Sudipta-Mitra/Income-Prediction )]
+8. loan_status [[ Link ](https://github.com/Sudipta-Mitra/loan_status )]
+9. Fake-news-prediction [[ Link ]( https://github.com/Sudipta-Mitra/Fake-news-prediction-)]
 10. customer_booking [[ Link ](https://github.com/Sudipta-Mitra/British_Airways )]
 
 
@@ -32,8 +33,8 @@ I am a Data Science student passionate about solving real-world problems using A
 
 
 ## 🧠 Deep Learning Projects
-1.Handwritten Digit Recognition using CNN [[ Link ]( https://github.com/Sudipta-Mitra/Handwritten-digit-recognition--MNIST-)]
-2.LeNet-5: A Classic Convolutional Neural Network Architecture [[ Link ](https://github.com/Sudipta-Mitra/CNN_Lenet-5 )]
+1. Handwritten Digit Recognition using CNN [[ Link ]( https://github.com/Sudipta-Mitra/Handwritten-digit-recognition--MNIST-)]
+2. LeNet-5: A Classic Convolutional Neural Network Architecture [[ Link ](https://github.com/Sudipta-Mitra/CNN_Lenet-5 )]
 3. Perceptron [[ Link ]( https://github.com/Sudipta-Mitra/perceptron)]
 4. CNN [[ Link ]( https://github.com/Sudipta-Mitra/CNN)]
 5. Feedforward-Neural-Network [[ Link ](https://github.com/Sudipta-Mitra/Feedforward-Neural-Network )]
@@ -44,13 +45,15 @@ I am a Data Science student passionate about solving real-world problems using A
 
 
 
----[[ Link ]( )]
+
+[[ Link ]( )]
 
 ## 💬 Natural Language Processing (NLP)
 1. Movie Review -[[ Link ]( https://github.com/Sudipta-Mitra/Project-)]
+2. 
 
 
----
+
 
 ## 📈 Power BI Dashboards
 1. Amazing Mart Sales Dashboard [[ Link ](https://github.com/Sudipta-Mitra/Amazing-Mart-Sales-Dashboard )]
@@ -58,7 +61,7 @@ I am a Data Science student passionate about solving real-world problems using A
 3. Global-Super-Store [[ Link ](https://github.com/Sudipta-Mitra/Global-Super-Store-2016 )]
 
 [[ Link ]( )]
----
+
 
 ## 📉 Time Series Forecasting
 1. Stock Price Trend Prediction with LSTM [[ Link ](https://github.com/Sudipta-Mitra/Stock-Price-Trend-Prediction-with-LSTM )]
