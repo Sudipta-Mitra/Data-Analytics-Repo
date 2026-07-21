@@ -1,13 +1,10 @@
-
-
-```md
 # 👋 Hi, I'm Sudipta Mitra
 
 🎓 B.Sc. in Data Science (3rd Year)
 💻 AI • Machine Learning • Deep Learning • NLP • Data Analytics • Power BI
 📍 Kolkata, India
 
----
+
 
 ## 🚀 About Me
 
@@ -22,7 +19,7 @@ I am a Data Science student passionate about solving real-world problems using A
 
 1.Drug Recommendation System : [[ Link ](https://github.com/Sudipta-Mitra/Drug-recommender)]
 2.Iris Flower Species Prediction Web App [[ Link ]( https://github.com/Sudipta-Mitra/Iris-dataset)]
-3.
+3.Mushroom Classification [[ Link ](https://github.com/Sudipta-Mitra/MUSHROOM-CLASSIFICATION )]
 
 
 
@@ -31,10 +28,11 @@ I am a Data Science student passionate about solving real-world problems using A
 
 
 ## 🧠 Deep Learning Projects
+1.Handwritten Digit Recognition using CNN [[ Link ]( https://github.com/Sudipta-Mitra/Handwritten-digit-recognition--MNIST-)]
 
 
 
----
+---[[ Link ]( )]
 
 ## 💬 Natural Language Processing (NLP)
 
@@ -43,16 +41,25 @@ I am a Data Science student passionate about solving real-world problems using A
 ---
 
 ## 📈 Power BI Dashboards
+1. Amazing Mart Sales Dashboard [[ Link ](https://github.com/Sudipta-Mitra/Amazing-Mart-Sales-Dashboard )]
+2. POWER-BI-Project--Sales-Dashboard [[ Link ](https://github.com/Sudipta-Mitra/POWER-BI-Project--Sales-Dashboard )]
 
-
-
+[[ Link ]( )]
 ---
 
 ## 📉 Time Series Forecasting
+1. Stock Price Trend Prediction with LSTM [[ Link ](https://github.com/Sudipta-Mitra/Stock-Price-Trend-Prediction-with-LSTM )]
+2. 
+
+## LLM 
+1. Persuasion Dialogue System for Social Good [[ Link ](https://github.com/Sudipta-Mitra/PersuasionForGood )]
+2. Kooie-Bot [[ Link ](https://github.com/Sudipta-Mitra/Chat-Bot )]
 
 
 
 ## Ardent Projects
+1. Sentiment Analysis [[ Link ](https://github.com/Sudipta-Mitra/Ardent-Project/tree/main/Sentiment%20Analysis )]
+2. Power Bi [[ Link ](https://github.com/Sudipta-Mitra/Ardent-Project/tree/main/Power-Bi )]
 
 ## AIML Internship Projects
 1.
@@ -62,8 +69,8 @@ I am a Data Science student passionate about solving real-world problems using A
 
 ## 📫 Connect With Me
 
-- GitHub: [github.com](https://github.com/Sudipta-Mitra)
-- LinkedIn: LinkedIn: [LinkedIn](https://www.linkedin.com/in/sudipta-mitra-81b349201)
+- GitHub: [GitHub](https://github.com/Sudipta-Mitra)
+- LinkedIn:  [LinkedIn](https://www.linkedin.com/in/sudipta-mitra-81b349201)
 - Email: sudiptamitra945@gmail.com
 
 
