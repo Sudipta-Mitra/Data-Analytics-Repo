@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sudipta Mitra
 
-🎓 B.Sc. in Data Science (3rd Year)
+🎓 B.Sc. in Data Science (4rd Year)
 💻 AI • Machine Learning • Deep Learning • NLP • Data Analytics • Power BI
 📍 Kolkata, India
 
