@@ -20,6 +20,8 @@ I am a Data Science student passionate about solving real-world problems using A
 1.Drug Recommendation System : [[ Link ](https://github.com/Sudipta-Mitra/Drug-recommender)]
 2.Iris Flower Species Prediction Web App [[ Link ]( https://github.com/Sudipta-Mitra/Iris-dataset)]
 3.Mushroom Classification [[ Link ](https://github.com/Sudipta-Mitra/MUSHROOM-CLASSIFICATION )]
+4.Sentiment analysis [[ Link ]( https://github.com/Sudipta-Mitra/iris)]
+5. Car evaluation [[ Link ]( https://github.com/Sudipta-Mitra/car_evaluation)]
 
 
 
@@ -35,7 +37,7 @@ I am a Data Science student passionate about solving real-world problems using A
 ---[[ Link ]( )]
 
 ## 💬 Natural Language Processing (NLP)
-
+1. Movie Review -[[ Link ]( https://github.com/Sudipta-Mitra/Project-)]
 
 
 ---
@@ -62,7 +64,14 @@ I am a Data Science student passionate about solving real-world problems using A
 2. Power Bi [[ Link ](https://github.com/Sudipta-Mitra/Ardent-Project/tree/main/Power-Bi )]
 
 ## AIML Internship Projects
-1.
+1. Titanic Dataset: Preprocessing & Visualization [[ Link ](https://github.com/Sudipta-Mitra/Task_1-Titanic-dataset- )]
+2. Titanic Dataset: A Deep Dive into Real-World Data Analysis [[ Link ](https://github.com/Sudipta-Mitra/Data-analysis- )]
+3. housing-price-prediction[[ Link ](https://github.com/Sudipta-Mitra/Task3-linear-regression- )]
+4. Breast Cancer Dataset  [[ Link ](https://github.com/Sudipta-Mitra/Task_4 )]
+5. Heart Disease Prediction using Machine Learning [[ Link ](https://github.com/Sudipta-Mitra/Task-5 )]
+6. Iris Classification [[ Link ]( https://github.com/Sudipta-Mitra/Task-6)]
+7. Breast Cancer Detection [[ Link ](https://github.com/Sudipta-Mitra/Task-7- )]
+8. Customer Segmentation [[ Link ](https://github.com/Sudipta-Mitra/Task-8- )]
 
 
 
