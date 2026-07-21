@@ -29,6 +29,7 @@ I am a Data Science student passionate about solving real-world problems using A
 10. customer_booking [[ Link ](https://github.com/Sudipta-Mitra/British_Airways )]
 11. Credit Card Prediction [[ Link ](https://github.com/Sudipta-Mitra/Credit-Card-Prediction )]
 12. binary_classification_model  [[ Link ]( https://github.com/Sudipta-Mitra/binary_classification_model)]
+13. Data Cleaning and Preprocessing [[ Link ]( https://github.com/Sudipta-Mitra/Data-Cleaning-and-Preprocessing-)]
 
 
 [[ Link ]( )]
@@ -78,6 +79,9 @@ I am a Data Science student passionate about solving real-world problems using A
 1. Stock Price Trend Prediction with LSTM [[ Link ](https://github.com/Sudipta-Mitra/Stock-Price-Trend-Prediction-with-LSTM )]
 2. Forecasting-Microsoft-Stock-Price. [[ Link ](https://github.com/Sudipta-Mitra/Forecasting-Microsoft-Stock-Price. )]
 3. Stock-Price-Prediction [[ Link ](https://github.com/Sudipta-Mitra/Stock-Price-Prediction )]
+4. Shampoo Sales Dataset [[ Link ]( https://github.com/Sudipta-Mitra/Shampoo-Sales-Dataset)]
+5. AirPassengers Dataset [[ Link ](https://github.com/Sudipta-Mitra/AirPassengers-Dataset )]
+6. Forecasting Financial Time Series Volatility  [[ Link ]( https://github.com/Sudipta-Mitra/Forecasting-Financial-Time-Series-Volatility)]
 
 ## LLM 
 1. Persuasion Dialogue System for Social Good [[ Link ](https://github.com/Sudipta-Mitra/PersuasionForGood )]
