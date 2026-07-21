@@ -16,14 +16,16 @@ I am a Data Science student passionate about solving real-world problems using A
 
 
 ## 🤖 Machine Learning Projects
-
 1.Drug Recommendation System : [[ Link ](https://github.com/Sudipta-Mitra/Drug-recommender)]
 2.Iris Flower Species Prediction Web App [[ Link ]( https://github.com/Sudipta-Mitra/Iris-dataset)]
 3.Mushroom Classification [[ Link ](https://github.com/Sudipta-Mitra/MUSHROOM-CLASSIFICATION )]
 4.Sentiment analysis [[ Link ]( https://github.com/Sudipta-Mitra/iris)]
-5. Car evaluation [[ Link ]( https://github.com/Sudipta-Mitra/car_evaluation)]
-
-
+5.Car evaluation [[ Link ]( https://github.com/Sudipta-Mitra/car_evaluation)]
+6. movie-recommendation-system- [[ Link ](https://github.com/Sudipta-Mitra/movie-recommendation-system- )]
+7.Income Prediction Web Application [[ Link ](https://github.com/Sudipta-Mitra/Income-Prediction )]
+8.loan_status [[ Link ](https://github.com/Sudipta-Mitra/loan_status )]
+9.Fake-news-prediction [[ Link ]( https://github.com/Sudipta-Mitra/Fake-news-prediction-)]
+10. customer_booking [[ Link ](https://github.com/Sudipta-Mitra/British_Airways )]
 
 
 [[ Link ]( )]
@@ -31,6 +33,14 @@ I am a Data Science student passionate about solving real-world problems using A
 
 ## 🧠 Deep Learning Projects
 1.Handwritten Digit Recognition using CNN [[ Link ]( https://github.com/Sudipta-Mitra/Handwritten-digit-recognition--MNIST-)]
+2.LeNet-5: A Classic Convolutional Neural Network Architecture [[ Link ](https://github.com/Sudipta-Mitra/CNN_Lenet-5 )]
+3. Perceptron [[ Link ]( https://github.com/Sudipta-Mitra/perceptron)]
+4. CNN [[ Link ]( https://github.com/Sudipta-Mitra/CNN)]
+5. Feedforward-Neural-Network [[ Link ](https://github.com/Sudipta-Mitra/Feedforward-Neural-Network )]
+6. Artificial-neural-network-ANN- [[ Link ](https://github.com/Sudipta-Mitra/Artificial-neural-network-ANN- )]
+7. Self-Organizing-Map-SOM-for-Iris-Dataset-Visualization-and-Analysis. [[ Link ](https://github.com/Sudipta-Mitra/Self-Organizing-Map-SOM-for-Iris-Dataset-Visualization-and-Analysis. )]
+
+
 
 
 
@@ -45,6 +55,7 @@ I am a Data Science student passionate about solving real-world problems using A
 ## 📈 Power BI Dashboards
 1. Amazing Mart Sales Dashboard [[ Link ](https://github.com/Sudipta-Mitra/Amazing-Mart-Sales-Dashboard )]
 2. POWER-BI-Project--Sales-Dashboard [[ Link ](https://github.com/Sudipta-Mitra/POWER-BI-Project--Sales-Dashboard )]
+3. Global-Super-Store [[ Link ](https://github.com/Sudipta-Mitra/Global-Super-Store-2016 )]
 
 [[ Link ]( )]
 ---
@@ -56,6 +67,7 @@ I am a Data Science student passionate about solving real-world problems using A
 ## LLM 
 1. Persuasion Dialogue System for Social Good [[ Link ](https://github.com/Sudipta-Mitra/PersuasionForGood )]
 2. Kooie-Bot [[ Link ](https://github.com/Sudipta-Mitra/Chat-Bot )]
+3. Code-snippet [[ Link ](https://github.com/Sudipta-Mitra/Code-snippet )]
 
 
 
